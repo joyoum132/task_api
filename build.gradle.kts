@@ -12,6 +12,7 @@ repositories {
 }
 
 dependencies {
+    implementation("com.googlecode.json-simple:json-simple:1.1.1")
     testImplementation(kotlin("test"))
 }
 
